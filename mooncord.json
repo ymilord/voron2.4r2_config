@@ -3,7 +3,7 @@
         "moonraker_socket_url": "ws://127.0.0.1/websocket",
         "moonraker_url": "http://127.0.0.1",
         "moonraker_token": "",
-        "bot_token": "MTAyNjU4MjM2NzUyNTE2MzE2OA.GqhQtL.y8h52Gh27vgaDW4aiYKWi1T_LjcFWRsuJgiti4"
+        "bot_token": ""
     },
     "language": {
         "messages": "en",
